@@ -16,6 +16,7 @@ public class FirstClass {
 		System.out.println("eclipse degisikliklerim");
 
 		System.out.println("i have this in my branch settar");
+		System.out.println("Here is Settar changes");
 
 
 		
