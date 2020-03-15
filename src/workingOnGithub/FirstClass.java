@@ -6,7 +6,7 @@ public class FirstClass {
 		
 		
 		System.out.println("We type our first commit");
-		
+		System.out.println("this is our second commit");
 		
 		
 	}
