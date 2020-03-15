@@ -27,7 +27,7 @@ public class FirstClass {
 		System.out.println("Here is Settar changes");
 		System.out.println("Here are local settar updates");
 
-
+		System.out.println("Here are remote settar updates");
 		
 	}
 	
