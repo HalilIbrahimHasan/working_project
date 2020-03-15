@@ -12,6 +12,7 @@ public class FirstClass {
 		System.out.println("fourth commit on eclipse");
 
 		System.out.println("fourth commit remote repository");
+		System.out.println("Remote degisikliklerim");
 
 		
 	}
