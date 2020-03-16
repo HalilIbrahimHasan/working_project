@@ -15,7 +15,7 @@ public class FirstClass {
 
 		System.out.println("eclipse degisikliklerim");
 
-<<<<<<< HEAD
+
 		System.out.println("new degisikliklerim");
 		System.out.println("just updated degisikliklerim");
 		System.out.println("last updated degisikliklerim");
